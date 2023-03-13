@@ -1,4 +1,5 @@
 #name: Basic Update
+  - hosts: RaspberryPi4
 become: true
 become_user: root
 tasks:
